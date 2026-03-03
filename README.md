@@ -1,8 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+<br clear="left"/>
  
  ## 𐔌՞ ܸ.ˬ.ܸ՞𐦯 ,, ⤷ Tech girl ₊⊹       
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78FBD&width=435&lines=Hello%2C+Word!;Welcome%2C+to+my+profile!)](https://git.io/typing-svg)
+<br clear="right"/>
 ##
 <div align="center">
   <img src="https://media1.tenor.com/m/MgYaQSp62nUAAAAC/chibi-cute.gif" width="250px" alt="chibi cute"/>
@@ -31,7 +34,9 @@ Ainda estou no início da jornada, mas gosto de evoluir um pouco todos os dias.
 
 </div>
 
-# ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ Contatos⋆.𐙚 ̊
+# ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ Contatos⋆.𐙚 ̊  
+
+<img align="right" src="https://media.tenor.com/nXQlSEZd0iYAAAAi/sailor-moon-snes.gif" width="140px"/>
 
 <div align="center">
   <a href="https://www.instagram.com/kerollayne_borges/" target="_blank">
