@@ -2,7 +2,9 @@
 
 <br clear="left"/>
  
- ## 𐔌՞ ܸ.ˬ.ܸ՞𐦯 ,, ⤷ Tech girl ₊⊹       
+ ## 𐔌՞ ܸ.ˬ.ܸ՞𐦯 ,, ⤷ Tech girl ₊⊹    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&label=visitors&color=f8c8dc&style=flat-square"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78FBD&width=435&lines=Hello%2C+Word!;Welcome%2C+to+my+profile!)](https://git.io/typing-svg)
 <br clear="right"/>
@@ -47,3 +49,4 @@ Ainda estou no início da jornada, mas gosto de evoluir um pouco todos os dias.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
