@@ -44,7 +44,14 @@ Ainda estou no início da jornada, mas gosto de crescer um pouco todos os dias.
 
 ---
 
-# ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ Contatos⋆.𐙚 ̊  
+## ⋆˚౨ৎ ⋆.˚⤷ Objetivo.✦ ݁˖
+
+- Estou dando meus primeiros passos na tecnologia com muita curiosidade e vontade de crescer.
+Quero aprender construindo, testando ideias e desenvolvendo projetos que conectem programação, dados e gestão.
+
+---
+
+# ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘ ⤷ Contatos⋆.𐙚 ̊  
 
 <img align="right" src="https://media.tenor.com/nXQlSEZd0iYAAAAi/sailor-moon-snes.gif" width="130px"/>
 
